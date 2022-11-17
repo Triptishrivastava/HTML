@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links,images,tables and list tag</title>
+</head>
+<body>
+    <!-- <a href="https://google.con">Go to google</a><br> -->
+    <!-- <a href="https://facebook.com">Go to facebook</a><br> -->
+    <!-- <img src="https://wallsdesk.com/wp-content/uploads/2017/01/Tel-Aviv-Photos.jpg" alt="Nature images"> -->
+    
+    <!-- unorderedList -->
+    <ul type="circle">
+        <li>This is my first unordered list </li>
+        <li>This is my seconnd unordered list</li>
+        <li>This is my third unordered list</li>
+        <ul type="square">
+            <li>Another first unordered list</li>
+            <li>Another Second unordered list</li>
+        </ul>
+    </ul>
+
+    <!-- OrderList -->
+    <ol type="a">
+        <li>This is my first orderd list</li>
+        <li>This is my second orderd list</li>
+        <li>This is my third orderd list</li>
+    </ol>
+    <!-- Tables -->
+    <h3>HTML Table</h3>
+    <table>
+        <thead>
+            <tr>
+              <th>Name</th>
+              <th>Employee Id</th>
+              <th>Address</th>
+            </tr>  
+        </thead>>
+        <tbody>
+            <tr>
+              <td>Rohan</td>
+              <td>44</td>
+              <td>Delhi</td>
+            </tr>
+            <tr>
+              <td>Mohan</td>
+              <td>567</td>
+              <td>Up</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
