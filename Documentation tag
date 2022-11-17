@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This is my description">
+    <meta name="keywords" content="html ,html tutorial, web development">
+    <meta name="robots" content="Index,follow">
+    <title>Document</title>
+
+    <!-- this is how to include css -->
+    <link rel="stylesheet" href="tripti.css">
+    
+    <!-- This is how to include javaScript -->
+    <script src="tripti.js"></script>
+    
+</head>
+<body>
+    <h1>Tripti</h1>
+    <h2>Tripti</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates quasi dolorum similique. Porro debitis accusantium maiores <strong>This is strong</strong> a repellendus nostrum, obcaecati explicabo, corrupti maxime quis ipsa tempora quo sit nam <em>This is emphasized</em> provident ab neque! Quam, at amet. Reprehenderit optio dolore autem cupiditate?</p>
+    <p>First <br> This is my first</p>
+    <!-- ctrl plus enter used  to jump in new line -->
+</body>
+</html>
